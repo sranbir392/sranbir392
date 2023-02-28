@@ -1,8 +1,9 @@
-<img src="https://infozsys.com/img/demo-content/icons/website-development.svg" alt="top" />
 <h1 align="center">Hi 👋, I'm Ranbir Singh</h1>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=An+Aspiring+Full+Stack+Web+Developer;&color=teal&center=true" />
 </div>
+
+<img src="https://infozsys.com/img/demo-content/icons/website-development.svg" alt="top" />
 
 ---
 
@@ -40,11 +41,11 @@
 # 📊 GitHub Stats:
 <div display="flex" flex-direction="column" justfiy-content="center" align-content="center">
  
-<img src="https://github-readme-stats.vercel.app/api?username=sranbir392&theme=default&hide_border=true&include_all_commits=true&count_private=false"/>
+<img style="width:50%;margin:auto;"  src="https://github-readme-stats.vercel.app/api?username=sranbir392&theme=default&hide_border=true&include_all_commits=true&count_private=false"/>
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=sranbir392&theme=default&hide_border=true)
+<img style="width:50%;margin:auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=sranbir392&theme=default&hide_border=true"/>
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sranbir392&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img style="width:50%;margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sranbir392&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
  
   </div>
 

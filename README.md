@@ -17,7 +17,7 @@
   <br>
   <li>👯 All my Projects available at <a href="https://sranbir392.github.io">Portfolio</a><br></li>
   <br>
-<li>📫 How to reach me - do email me on sranbir392@hotmail.com </li>
+  <li>📫 How to reach me -<a href="mailto:sranbir392@hotmail.com" target="_blank" >sranbir392@hotmail.com</a> </li>
   <br>
 <li>🌱 I’m currently learning React Testing<br></li>
   <br>

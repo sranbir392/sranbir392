@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ranbir Singh</h1>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=An+Aspiring+Full+Stack+Web+Developer;&color=teal&center=true" />
+  <h1>
+  A passionate full stack web developer with hands-on experience in designing, developing, and maintaining projects.
+</h1>
 </div>
 
 <img src="https://infozsys.com/img/demo-content/icons/website-development.svg" alt="top" />

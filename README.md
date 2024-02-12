@@ -23,8 +23,6 @@
   <br>
   <li>📫 How to reach me -<a href="mailto:sranbir392@hotmail.com" target="_blank" >sranbir392@hotmail.com</a> </li>
   <br>
-<li>🌱 I’m currently learning React Testing<br></li>
-  <br>
 <li>💬 Ask me about HTML, CSS, Java Script, ReactJS, Redux, NodeJs, Express, MongoDB<br></li>
   <br>
 <li>⚡ Fun fact I debug my code while sleeping as well.</li>

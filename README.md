@@ -9,11 +9,6 @@
 <img src="https://infozsys.com/img/demo-content/icons/website-development.svg" alt="top" />
 
 ---
-
-
-[![](https://visitcount.itsvg.in/api?id=sranbir392&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 # 💫 About Me:
 <img align="right" alt="coding" width="400" height="250" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 <ul>
